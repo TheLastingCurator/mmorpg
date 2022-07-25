@@ -1,0 +1,4 @@
+[submodule "arctic"]
+	path = arctic
+	url = https://github.com/arcticengine/arctic.git
+	branch = dev
